@@ -1,0 +1,18 @@
+C:\Users\Derek\source\repos\9.29 revised word counter\9.29 revised word counter\bin\Debug\9.29 revised word counter.exe.config
+C:\Users\Derek\source\repos\9.29 revised word counter\9.29 revised word counter\bin\Debug\9.29 revised word counter.exe
+C:\Users\Derek\source\repos\9.29 revised word counter\9.29 revised word counter\bin\Debug\9.29 revised word counter.pdb
+C:\Users\Derek\source\repos\9.29 revised word counter\9.29 revised word counter\obj\Debug\9.29 revised word counter.csprojAssemblyReference.cache
+C:\Users\Derek\source\repos\9.29 revised word counter\9.29 revised word counter\obj\Debug\_9._29_revised_word_counter.Form1.resources
+C:\Users\Derek\source\repos\9.29 revised word counter\9.29 revised word counter\obj\Debug\_9._29_revised_word_counter.Properties.Resources.resources
+C:\Users\Derek\source\repos\9.29 revised word counter\9.29 revised word counter\obj\Debug\9.29 revised word counter.csproj.GenerateResource.cache
+C:\Users\Derek\source\repos\9.29 revised word counter\9.29 revised word counter\obj\Debug\9.29 revised word counter.exe
+C:\Users\Derek\source\repos\9.29 revised word counter\9.29 revised word counter\obj\Debug\9.29 revised word counter.pdb
+C:\Users\Derek\Desktop\School Fall 2021\CIS 4322\9.29 revised word counter\9.29 revised word counter\bin\Debug\9.29 revised word counter.exe.config
+C:\Users\Derek\Desktop\School Fall 2021\CIS 4322\9.29 revised word counter\9.29 revised word counter\bin\Debug\9.29 revised word counter.exe
+C:\Users\Derek\Desktop\School Fall 2021\CIS 4322\9.29 revised word counter\9.29 revised word counter\bin\Debug\9.29 revised word counter.pdb
+C:\Users\Derek\Desktop\School Fall 2021\CIS 4322\9.29 revised word counter\9.29 revised word counter\obj\Debug\9.29 revised word counter.csprojAssemblyReference.cache
+C:\Users\Derek\Desktop\School Fall 2021\CIS 4322\9.29 revised word counter\9.29 revised word counter\obj\Debug\_9._29_revised_word_counter.Form1.resources
+C:\Users\Derek\Desktop\School Fall 2021\CIS 4322\9.29 revised word counter\9.29 revised word counter\obj\Debug\_9._29_revised_word_counter.Properties.Resources.resources
+C:\Users\Derek\Desktop\School Fall 2021\CIS 4322\9.29 revised word counter\9.29 revised word counter\obj\Debug\9.29 revised word counter.csproj.GenerateResource.cache
+C:\Users\Derek\Desktop\School Fall 2021\CIS 4322\9.29 revised word counter\9.29 revised word counter\obj\Debug\9.29 revised word counter.exe
+C:\Users\Derek\Desktop\School Fall 2021\CIS 4322\9.29 revised word counter\9.29 revised word counter\obj\Debug\9.29 revised word counter.pdb
